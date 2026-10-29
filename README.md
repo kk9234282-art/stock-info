@@ -12,6 +12,8 @@ The website is functional, but company research is **not verified or complete**.
 
 These screenshots show the implemented dark reading layout. Imagery is illustrative and financial observations remain unverified.
 
+For hosted setup and deployment troubleshooting, see [VERCEL.md](VERCEL.md).
+
 ## Run locally
 
 Requires Node.js 24 and npm. Commands run from this repository root.
